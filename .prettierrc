@@ -1,0 +1,11 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "allowParens": "avoid",
+  "bracketSpacing": true,
+  "semi": true,
+  "editor.formatOnSave": false,
+  "[javascript,javascriptreact,typescriptreact]": {
+    "editor.formatOnSave": true
+  }
+}
